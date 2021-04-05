@@ -1,4 +1,4 @@
-# PROJEK-PKL-2021
+# PROJEK-PKL-SMK-YPT-TEGAL-TAHUN-PELAJARAN-2021
 > **Catatan: **
 
 > Ini adalah projek pkl siswa tahun 2021
