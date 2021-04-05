@@ -5,7 +5,6 @@
 > Ini adalah projek pkl siswa tahun 2021
 > Berikut daftar :
 # Kelompok 1
-Silahkan untuk gambar bisa kalian atur/ganti sesuai keinginan.
-Salam koding
+SMPN 18 Tegal --> https://github.com/JagaPrmdt/SMPN18KotaTegal
 
 
