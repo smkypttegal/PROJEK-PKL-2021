@@ -10,7 +10,7 @@ MTsNegeriKotaTegal --> https://github.com/Febriyani09/MTsNegeriKotaTegal.git
 # Kelompok 3
 SMPN 9 Tegal --> https://github.com/mhmmdilhamnhs23/smp9tegal
 # Kelompok 4
-SMPN 4 Tegal --> https://github.com/Sylviana06/SMPN4KOTATEGAL
+SMPN 4 Tegal --> https://github.com/Sylviana06/smpn4tegal.git
 # Kelompok 5 
 SMPN 11 Tegal --> https://github.com/dimasspri/SMPN11TEGAL
 # Kelompok 6
